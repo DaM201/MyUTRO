@@ -1,4 +1,10 @@
+#myUTRO
 
+#What MyUTRO does
+MyUTRO can generate your Remote Control.
+When another device opens 
+it you have control on its PC
+Connection is to each **IP Address** and **port**
 
 ```
                  _   _ _____ ____   ___
