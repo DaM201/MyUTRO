@@ -1,4 +1,8 @@
 # myUTRO
+Version 0.1.3
+By Dam201
+[Youtube](https://www.youtube.com/channel/UC8Ao1YisJbPGCNG73EhtDCw)
+[Instagram](https://www.instagram.com/hnc_conporation/)
 
 # What MyUTRO does
 MyUTRO can generate your Remote Control.
