@@ -4,11 +4,11 @@ By Dam201
 [Youtube](https://www.youtube.com/channel/UC8Ao1YisJbPGCNG73EhtDCw)
 [Instagram](https://www.instagram.com/hnc_conporation/)
 
-# What MyUTRO does
+# What MyUTRO does.
 MyUTRO can generate your Remote Control.
-When another device opens 
-it you have control on its PC
-Connection is to each **IP Address** and **port**
+When another device opens .
+it you have control on its PC.
+Connection is to each **IP Address** and **port**.
 MyUTRO remembers where you have successfully connected.
 ```
                  _   _ _____ ____   ___
