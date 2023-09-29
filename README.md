@@ -14,8 +14,7 @@ options:
   -h, --help  show this help message and exit
   -s S
   -c          Connect to <IP:PORT>
-  -r          Create a Remote Control With Which you Can
-              Control the Remote PC
+  -r          Create a Remote Control With Which you Can Control the Remote PC
   -w          Trying to connect to <IP:PORT>
   -py         Remote Control with PY
   -exe        Remote Control with EXE
