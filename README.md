@@ -9,7 +9,7 @@ MyUTRO can generate your Remote Control.
 When another device opens 
 it you have control on its PC
 Connection is to each **IP Address** and **port**
-
+MyUTRO remembers where you have successfully connected.
 ```
                  _   _ _____ ____   ___
  _ __ ___  _   _| | | |_   _|  _ \ / _ \
