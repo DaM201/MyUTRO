@@ -1,4 +1,4 @@
-# myUTRO
+# MyUTRO
 
 # Tutorials of MyUTRO in YOUTUBE and INSTAGRAM
 [Youtube](https://www.youtube.com/channel/UC8Ao1YisJbPGCNG73EhtDCw)
