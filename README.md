@@ -19,7 +19,9 @@ Install Python through the Microsoft Store
 Then open a **Command Prompt** in the directory where **MyUTRO** is located.
 
 Type this Command to Comamnd Prompt ->
+
 ![image](https://github.com/DaM201/MyUTRO/assets/68821652/5ac1bc34-9e5c-447f-8309-0b23b78c6177)
+
 Then Run MyUTRO ->
 
 ![image](https://github.com/DaM201/MyUTRO/assets/68821652/ad324988-d050-4ed9-a732-95f94af361ec)
