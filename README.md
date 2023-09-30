@@ -10,12 +10,21 @@ When another device opens .
 it you have control on its PC.
 Connection is to each **IP Address** and **port**.
 MyUTRO remembers where you have successfully connected.
+# Install Windows
 
-# Install - You Need
-**To Create a Remote Control EXE File, so you need to install Python**
+Install Python through the Microsoft Store
 
-.
 ![image](https://github.com/DaM201/Colay-Project0.4/assets/68821652/f450abcd-1e1c-4c67-8203-d518cff2cfee)
+
+Then open a **Command Prompt** in the directory where **MyUTRO** is located.
+
+Type this Command to Comamnd Prompt ->
+![image](https://github.com/DaM201/MyUTRO/assets/68821652/5ac1bc34-9e5c-447f-8309-0b23b78c6177)
+Then Run MyUTRO ->
+
+![image](https://github.com/DaM201/MyUTRO/assets/68821652/ad324988-d050-4ed9-a732-95f94af361ec)
+
+# Install Linux
 
 # usage
 ```
