@@ -6,9 +6,13 @@ By Dam201
 
 # What MyUTRO does.
 MyUTRO can generate your Remote Control.
+
 When another device opens .
+
 it you have control on its PC.
+
 Connection is to each **IP Address** and **port**.
+
 MyUTRO remembers where you have successfully connected.
 # Install Windows
 
