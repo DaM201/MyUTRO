@@ -25,12 +25,53 @@ Then open a **Command Prompt** in the directory where **MyUTRO** is located.
 Type this Command to Comamnd Prompt ->
 
 ![image](https://github.com/DaM201/MyUTRO/assets/68821652/5ac1bc34-9e5c-447f-8309-0b23b78c6177)
+ ```
+ pip install -r requirements.txt" 
+ ```
 
 Then Run MyUTRO ->
 
 ![image](https://github.com/DaM201/MyUTRO/assets/68821652/ad324988-d050-4ed9-a732-95f94af361ec)
+ ```
+ python utro.py --help 
+ ```
+
 
 # Install Linux
+
+First install **Python3**, **Git** ->
+
+![image](https://github.com/DaM201/MyUTRO/assets/68821652/fa825a51-7fc3-472b-8d04-67b05fa9ca10)
+
+ ```
+ sudo apt install python3 git" 
+ ```
+
+Then install **MyUTRO** using **Git** ->
+
+![image](https://github.com/DaM201/MyUTRO/assets/68821652/e2807087-d368-48b3-9bc0-85424fa71586)
+
+ ```
+ git clone https://github.com/DaM201/MyUTRO" 
+ ```
+
+Then Install *MyUTRO* **Requirements.txt** ->
+
+![image](https://github.com/DaM201/MyUTRO/assets/68821652/141e723f-ae96-43fc-8ef3-4733f979c39e)
+
+ ```
+ pip3 install -r MyUTRO/requirements.txt" 
+ ```
+
+Then Run MyUTRO ->
+
+![image](https://github.com/DaM201/MyUTRO/assets/68821652/6587b786-059a-4cfd-990e-72b6d6d0cce7)
+
+ ```
+ python3 MyUTRO/utro.py --help" 
+ ```
+
+
 
 # usage
 ```
