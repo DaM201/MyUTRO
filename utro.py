@@ -154,8 +154,7 @@ import subprocess
 import os
 import shutil
 import platform
-host_ip = 0.0.0.0
-port = 8000
+
 if platform.system() == "Windows":
     
     address_file = os.getcwd()
@@ -253,8 +252,7 @@ import subprocess
 import os
 import shutil
 import platform
-host_ip = "192.168.0.168"
-port = 8080
+
 if platform.system() == "Windows":
     
     address_file = os.getcwd()
