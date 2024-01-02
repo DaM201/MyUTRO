@@ -75,6 +75,7 @@ Then Run MyUTRO ->
  ```
  python3 MyUTRO/utro.py --help" 
  ```
+![image](https://github.com/DaM201/MyUTRO/assets/68821652/5cd658d5-a38b-4cf2-afa9-fc653884cf4b)
 
 
 
